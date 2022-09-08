@@ -1,9 +1,14 @@
-#   eu 
-- 👋 Hi, I’m @**g4biih
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#   Sobre mim
+## eu
+- 👋 Olá, eu 
+- 👀 Eu estou interessada em aprender a **programar**
+- 🌱 Recentemente eu aprendi Scratch e JavaScript
+
+:heart:
+
+:+1: estou tentando fazer 
+
+
 
 <!---
 g4biih/g4biih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
